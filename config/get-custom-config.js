@@ -4,7 +4,7 @@ function getCustomConfig(prod) {
   prod = prod || false;
   const env = {};
 
-  const customizerKeys = customizers.keys();
+  const customizerKeys = Object.keys(customizers);
 
   customizerKeys.forEach ((customizerKey) => {
     const value = process.env['REACT_APP_' + customizerKey];

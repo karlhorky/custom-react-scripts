@@ -1,6 +1,13 @@
 # ☢ custom-react-scripts ☢
 
 ### ⚠️ Disclaimer:
+
+This is a temporary repository for CSS Modules and Sass support until [kitze/create-react-app#23](https://github.com/kitze/create-react-app/pull/23) is merged.
+
+---
+
+Previous Disclaimer:
+
 > This is **not** a fork of ```create-react-app```. It's just a fork of ```react-scripts``` with simple babel/webpack modifications that can toggle extra features.
 
 The reason for this fork's existence is explained better in [this Medium article](https://medium.com/@kitze/configure-create-react-app-without-ejecting-d8450e96196a).

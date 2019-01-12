@@ -1,6 +1,6 @@
 # ☢ custom-react-scripts ☢
 
-⚠️ This repo is **deprecated** and **insecure** (`webpack-dev-server` dependency).
+⚠️ This repo is **abandoned** and **insecure** (`webpack-dev-server` dependency).
 
 Please use [react-app-rewired](https://github.com/timarney/react-app-rewired) if you want to customize CRA 1.  
 Please use [customize-cra](https://github.com/arackaf/customize-cra) if you want to customize CRA 2.

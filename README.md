@@ -1,5 +1,10 @@
 # ☢ custom-react-scripts ☢
 
+⚠️ This repo is **deprecated** and **insecure** (`webpack-dev-server` dependency).
+
+Please use [react-app-rewired](https://github.com/timarney/react-app-rewired) if you want to customize CRA 1.  
+Please use [customize-cra](https://github.com/arackaf/customize-cra) if you want to customize CRA 2.
+
 ### ⚠️ Disclaimer:
 
 This is a temporary repository for CSS Modules and Sass support until [kitze/create-react-app#23](https://github.com/kitze/create-react-app/pull/23) is merged.
